@@ -28,6 +28,8 @@ body{
 
     text-align:center;
     font-family:'Raleway',sans-serif;
+    font-variant-numeric: lining-nums;
+    font-feature-settings: "lnum" 1;
     line-height:1.6;
 
     background:
